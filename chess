@@ -1,0 +1,93 @@
+<html>
+    <head>
+        <title>chess</title>
+        <link rel="stylesheet" href="git chessstyle.css">
+    </head>
+    <body>
+        <table border="10">
+            <tr>
+                <td>
+        <div class="row">
+            <div class="black"></div>
+            <div class="black box"></div>
+            <div class="black"></div>
+            <div class="black box"></div>
+            <div class="black"></div>
+            <div class="black box"></div>
+            <div class="black"></div>
+            <div class="black box"></div>
+        </div>
+        <div class="row">
+            <div class="black box"></div>
+            <div class="black"></div>
+            <div class="black box"></div>
+            <div class="black"></div>
+            <div class="black box"></div>
+            <div class="black"></div>
+            <div class="black box"></div>
+            <div class="black"></div>
+        </div>
+        <div class="row">
+            <div class="black"></div>
+            <div class="black box"></div>
+            <div class="black"></div>
+            <div class="black box"></div>
+            <div class="black"></div>
+            <div class="black box"></div>
+            <div class="black"></div>
+            <div class="black box"></div>
+        </div>
+        <div class="row">
+            <div class="black box"></div>
+            <div class="black"></div>
+            <div class="black box"></div>
+            <div class="black"></div>
+            <div class="black box"></div>
+            <div class="black"></div>
+            <div class="black box"></div>
+            <div class="black"></div>
+        </div>
+        <div class="row">
+            <div class="black"></div>
+            <div class="black box"></div>
+            <div class="black"></div>
+            <div class="black box"></div>
+            <div class="black"></div>
+            <div class="black box"></div>
+            <div class="black"></div>
+            <div class="black box"></div>
+        </div>
+        <div class="row">
+        <div class="black box"></div>
+        <div class="black"></div>
+        <div class="black box"></div>
+        <div class="black"></div>
+        <div class="black box"></div>
+        <div class="black"></div>
+        <div class="black box"></div>
+        <div class="black"></div>
+    </div>
+    <div class="row">
+        <div class="black"></div>
+        <div class="black box"></div>
+        <div class="black"></div>
+        <div class="black box"></div>
+        <div class="black"></div>
+        <div class="black box"></div>
+        <div class="black"></div>
+        <div class="black box"></div>
+    </div>
+    <div class="row">
+        <div class="black box"></div>
+        <div class="black"></div>
+        <div class="black box"></div>
+        <div class="black"></div>
+        <div class="black box"></div>
+        <div class="black"></div>
+        <div class="black box"></div>
+        <div class="black"></div>
+    </div>
+                </td>
+            </tr>
+            <table
+</html>
